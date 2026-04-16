@@ -5,4 +5,4 @@ Projeto de estudo desenvolvido com:
 - JavaScript
 - GSAP
 
-Site online: https://ronaldy-dev.github.io/fanta -landing-page/
+Site online:https://ronaldy-dev.github.io/fanta-landing-page/
