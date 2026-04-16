@@ -6,3 +6,4 @@ Projeto de estudo desenvolvido com:
 - GSAP
 
 Site online:https://ronaldy-dev.github.io/fanta-landing-page/
+Acesso do site online fica melhor somente pelo PC
