@@ -7,3 +7,5 @@ Projeto de estudo desenvolvido com:
 
 Site online:https://ronaldy-dev.github.io/fanta-landing-page/
 Acesso do site online fica melhor somente pelo PC
+
+Projeto de curso que fiz em estudo sobre HTML, CSS e Js
